@@ -1,4 +1,4 @@
-# Delegados, EventosTarea
+# Delegados, Eventos
 
 ## Crear una escena simple en Unity, con dos objetos: Notificador y Suscriptor y prueba el código en las transparencias.
 
